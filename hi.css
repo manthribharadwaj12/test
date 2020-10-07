@@ -5,6 +5,9 @@
 .row.content {height: 2000px}
 
 /* Set gray background color and 100% height */
+div{
+    color: #ffffff;
+}
 .sidenav {
 background-color: #f1f1f1;
 height: 100%;
